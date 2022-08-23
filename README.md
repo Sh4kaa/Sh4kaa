@@ -1,7 +1,10 @@
-### Hi there 👋
+### Olá me Chamo Dario 👋
 
-<!--
-**Sh4kaa/Sh4kaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Dario](https://github-readme-stats.vercel.app/api?username=sh4kaa&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
